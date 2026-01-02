@@ -1,0 +1,1 @@
+A simple CLI input transformer-type command, my first independent C project, and independent programming project overall. Created as practice for the Linux college course, as a way to practice C, using the vi editor, using GCC and writing makefiles.
